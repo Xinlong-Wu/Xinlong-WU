@@ -11,7 +11,7 @@ It is Xinlong Wu(VincentWu).
 
   anyone with knowledge of or interest in LLVM/RISCV.
 
-- 😄 My Bolg *(Unfortunately it's now in Chinese)*:
+- 😄 My Blog *(Unfortunately it's now in Chinese)*:
 
    [Vincent | Laboratory](https://www.wulongxin.com/)
 
