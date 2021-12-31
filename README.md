@@ -20,21 +20,21 @@ It is Xinlong Wu(VincentWu).
   Email: VincenttttWu@gmail.com
 
 #### XinlongWu's GitHub stats
-[![XinlongWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinlong-WU&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Xinlong-WU)
+[![XinlongWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinlong-Wu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Xinlong-Wu)
 
 #### Top Lans
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-WU&layout=compact)](https://github.com/Xinlong-WU)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-WU&layout=compact)](https://github.com/Xinlong-Wu)
 
 #### Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-WU&repo=riscv-crypto)](https://github.com/Xinlong-WU/riscv-crypto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-WU&repo=llvm-project)](https://github.com/Xinlong-WU/llvm-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=riscv-crypto)](https://github.com/Xinlong-Wu/riscv-crypto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=llvm-project)](https://github.com/Xinlong-Wu/llvm-project)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-WU)](https://github.com/anuraghazra) -->
-<!-- [![XinlongWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xinlong-WU)](https://github.com/Xinlong-WU) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-Wu)](https://github.com/anuraghazra) -->
+<!-- [![XinlongWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xinlong-Wu)](https://github.com/Xinlong-Wu) -->
 
 <!--
-**Xinlong-WU/Xinlong-WU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Xinlong-Wu/Xinlong-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
