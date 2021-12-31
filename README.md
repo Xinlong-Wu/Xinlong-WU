@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 It is Xinlong Wu(VincentWu).
-- 🔭 I’m currently currently:
+- 🔭 I’m currently:
 
    A bachelor student of RMIT Australia
    
