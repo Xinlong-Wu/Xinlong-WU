@@ -3,7 +3,7 @@
 It is Xinlong Wu(VincentWu).
 - 🔭 I’m currently:
 
-   A bachelor student of RMIT Australia
+   A Master student of ANU
    
    An intern in the PLCT lab, working on implementing LLVM support for the RISCV instruction set.
 
