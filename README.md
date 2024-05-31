@@ -17,7 +17,13 @@ It is Xinlong Wu(VincentWu).
 
 - 📫 How to reach me: 
 
-  Email: VincenttttWu@gmail.com
+  Email:
+  - VincenttttWu@gmail.com
+  - Xinlong.Wu@anu.edu.au
+
+- My CV is here: [XinlongWu_Resume.pdf](XinlongWu_Resume.pdf)
+
+
 
 #### XinlongWu's GitHub stats
 [![XinlongWu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinlong-Wu&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Xinlong-Wu)
