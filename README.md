@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-It is Xinlong Wu(VincentWu).
+It is Xinlong Wu.
 - 🔭 I’m currently:
 
    A Master student of ANU
    
-   An intern in the PLCT lab, working on implementing LLVM support for the RISCV instruction set.
+   An intern in the PLCT lab (2020-2024): working on implementing LLVM support for the RISCV instruction set.
 
 - 🤔 I’m looking for help with:
 
