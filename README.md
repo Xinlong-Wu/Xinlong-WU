@@ -5,6 +5,10 @@ It is Xinlong Wu.
 
    PhD Candidate of NJU
 
+   LLVM Contributor
+
+   dotnet Contributor
+
 - I was:
 
    Intern of Lixiang Auto (2024.11 - 2025.07)
