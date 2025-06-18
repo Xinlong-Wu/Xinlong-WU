@@ -3,9 +3,15 @@
 It is Xinlong Wu.
 - 🔭 I’m currently:
 
-   A Master student of ANU
+   PhD Candidate of NJU
+
+- I was:
+
+   Intern of Lixiang Auto (2024.11 - 2025.07)
+
+   Graduated from ANU (2023.1 - 2025.7)
    
-   An intern in the PLCT lab (2020-2024): working on implementing LLVM support for the RISCV instruction set.
+   Intern student in the PLCT lab (2020-2024): working on implementing LLVM support for the RISCV instruction set.
 
 - 🤔 I’m looking for help with:
 
@@ -18,6 +24,7 @@ It is Xinlong Wu.
 - 📫 How to reach me: 
 
   Email:
+  - hi_xinlongwu@163.com 
   - VincenttttWu@gmail.com
   - Xinlong.Wu@anu.edu.au
 
