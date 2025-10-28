@@ -3,7 +3,7 @@
 It is Xinlong Wu.
 - 🔭 I’m currently:
 
-   PhD Candidate of NJU
+   PhD Candidate of NJU (Software Security)
 
    LLVM Contributor
 
@@ -28,9 +28,12 @@ It is Xinlong Wu.
 - 📫 How to reach me: 
 
   Email:
-  - hi_xinlongwu@163.com 
+  - xinlongwu@smail.nju.edu.cn
+  <!---
+  - hi_xinlongwu@163.com
   - VincenttttWu@gmail.com
   - Xinlong.Wu@anu.edu.au
+  -->
 
 - My CV is here: [XinlongWu_Resume.pdf](XinlongWu_Resume.pdf)
 
