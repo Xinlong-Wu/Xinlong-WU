@@ -51,7 +51,7 @@ It is Xinlong Wu.
 
 ## Activity Graph 📈
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xinlong-Wu&count_private=true&area=true&days=30&theme=nightowl" width="100%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xinlong-Wu&count_private=true&area=true&days=30&theme=minimal" width="100%">
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-Wu)](https://github.com/anuraghazra) -->
