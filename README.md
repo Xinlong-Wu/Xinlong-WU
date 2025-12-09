@@ -45,11 +45,11 @@ It is Xinlong Wu.
 -->
 
 #### Top Lans
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-Wu&layout=compact)](https://github.com/Xinlong-Wu)
+[![Top Langs](https://github-readme-stats-one-sigma-59.vercel.app/api/top-langs/?username=Xinlong-Wu&layout=compact)](https://github.com/Xinlong-Wu)
 
 #### Repo Card
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=runtime)](https://github.com/Xinlong-Wu/runtime)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=llvm-project)](https://github.com/Xinlong-Wu/llvm-project)
+[![Readme Card](https://github-readme-stats-one-sigma-59.vercel.app/api/pin/?username=Xinlong-Wu&repo=runtime)](https://github.com/Xinlong-Wu/runtime)
+[![Readme Card](https://github-readme-stats-one-sigma-59.vercel.app/api/pin/?username=Xinlong-Wu&repo=llvm-project)](https://github.com/Xinlong-Wu/llvm-project)
 
 ## Activity Graph 📈
 <p align="center">
