@@ -1,13 +1,13 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I'm+Xinlong+Wu;Nice+to+meet+you!+:\)&fontSize=40&fontWeight=bold)
 
 It is Xinlong Wu.
 - 🔭 I’m currently:
 
    PhD Candidate of NJU (Software Security)
 
-   LLVM Contributor
+   LLVM [Contributor](https://github.com/llvm/llvm-project/commits/main/?author=Xinlong-Wu) and [Reviewer](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+reviewed-by%3AXinlong-Wu): 
 
-   dotnet Contributor
+   dotnet [Contributor](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3AXinlong-Wu)
 
 - I was:
 
@@ -19,7 +19,7 @@ It is Xinlong Wu.
 
 - 🤔 I’m looking for help with:
 
-  anyone with knowledge of or interest in LLVM/RISCV.
+  Anyone with knowledge of or interest in LLVM/RISCV.
 
 - 😄 My Blog *(Now it's Chinese)*:
 
@@ -51,6 +51,10 @@ It is Xinlong Wu.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=runtime)](https://github.com/Xinlong-Wu/runtime)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xinlong-Wu&repo=llvm-project)](https://github.com/Xinlong-Wu/llvm-project)
 
+## Activity Graph 📈
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xinlong-Wu&count_private=true&area=true&days=30&theme=nightowl" width="100%">
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xinlong-Wu)](https://github.com/anuraghazra) -->
 <!-- [![XinlongWu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Xinlong-Wu)](https://github.com/Xinlong-Wu) -->
