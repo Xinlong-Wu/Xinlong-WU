@@ -3,7 +3,7 @@
 It is Xinlong Wu.
 - 🔭 I’m currently:
 
-   PhD Candidate of NJU (Software Security)
+   PhD Candidate of NJU, supervised by Prof. Qingkai Shi (Software Security)
 
    LLVM [Contributor](https://github.com/llvm/llvm-project/commits/main/?author=Xinlong-Wu) and [Reviewer](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+reviewed-by%3AXinlong-Wu): 
 
