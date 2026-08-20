@@ -23,7 +23,7 @@ It is Xinlong Wu.
 
 - 😄 My Blog *(Now it's Chinese)*:
 
-   [Vincent | Laboratory](https://www.wulongxin.com/)
+   [Xinlong | Laboratory](https://www.wulongxin.com/)
 
 - 📫 How to reach me: 
 
