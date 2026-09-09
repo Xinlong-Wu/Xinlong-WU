@@ -3,8 +3,6 @@
 It is Xinlong Wu.
 - 🔭 I’m currently:
 
-   PhD Candidate of NJU, supervised by Prof. Qingkai Shi (Software Security)
-
    LLVM [Contributor](https://github.com/llvm/llvm-project/commits/main/?author=Xinlong-Wu) and [Reviewer](https://github.com/llvm/llvm-project/pulls?q=is%3Apr+reviewed-by%3AXinlong-Wu): 
 
    dotnet [Contributor](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3AXinlong-Wu)
@@ -20,23 +18,21 @@ It is Xinlong Wu.
 - 🤔 I’m looking for help with:
 
   Anyone with knowledge of or interest in LLVM/RISCV.
-<!--
+
 - 😄 My Blog *(Now it's Chinese)*:
 
    [Xinlong | Laboratory](https://www.wulongxin.com/)
 
+<!--
 - 📫 How to reach me: 
 
   Email:
   - xinlongwu@smail.nju.edu.cn
-  <!---
   - hi_xinlongwu@163.com
   - VincenttttWu@gmail.com
   - Xinlong.Wu@anu.edu.au
-  -->
 
 - My CV is here: [XinlongWu_Resume.pdf](XinlongWu_Resume.pdf)
-
 -->
 
 #### XinlongWu's GitHub stats
