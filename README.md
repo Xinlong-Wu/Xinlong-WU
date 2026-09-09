@@ -20,7 +20,7 @@ It is Xinlong Wu.
 - 🤔 I’m looking for help with:
 
   Anyone with knowledge of or interest in LLVM/RISCV.
-
+<!--
 - 😄 My Blog *(Now it's Chinese)*:
 
    [Xinlong | Laboratory](https://www.wulongxin.com/)
@@ -37,7 +37,7 @@ It is Xinlong Wu.
 
 - My CV is here: [XinlongWu_Resume.pdf](XinlongWu_Resume.pdf)
 
-
+-->
 
 #### XinlongWu's GitHub stats
 [![XinlongWu's GitHub stats](https://github-readme-stats-one-sigma-59.vercel.app/api?username=Xinlong-Wu&count_private=true&show_icons=true&theme=transparent)](https://github.com/Xinlong-Wu)
